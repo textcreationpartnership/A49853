@@ -1,0 +1,286 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A looking-glass for the episcopal people shewing them how they walk contrary to the common-prayer they profess and teach / written in true love that might come to know the truth as it is in Jesus, by a lover and friend of truth, though by the world reproachfully called a Quaker, Francis Lea.</title>
+            <author>Lea, Francis.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49853</idno>
+            <idno type="STC">Wing L765</idno>
+            <idno type="STC">ESTC R34963</idno>
+            <idno type="EEBO-CITATION">14916685</idno>
+            <idno type="OCLC">ocm 14916685</idno>
+            <idno type="VID">102904</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49853)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 102904)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1573:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A looking-glass for the episcopal people shewing them how they walk contrary to the common-prayer they profess and teach / written in true love that might come to know the truth as it is in Jesus, by a lover and friend of truth, though by the world reproachfully called a Quaker, Francis Lea.</title>
+                  <author>Lea, Francis.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Controversial literature.</term>
+               <term>Society of Friends --  Apologetic works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:102904:1" rendition="simple:additions"/>
+            <p>A Looking-Glaſs FOR THE Epiſcopal People Shewing them how they walk Contrary to the COMMON-PRAYER They <hi>Profeſs</hi> and <hi>Teach.</hi>
+            </p>
+            <q>
+               <p>Wiitten in True Love, that all might come to know the Truth, as it is in Jeſus, by a Lover and Friend of Truth, though by the World Reproachfully called a <hi>Quaker,</hi>
+               </p>
+               <bibl>
+                  <hi>Francis Lea.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>That was the true Light, which Lighteth every Man that cometh into the World,</p>
+               <bibl>
+                  <hi>John. 1.9.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>There is a Spirit in Man; and the Inſpiration of the Almighty gi<g ref="char:EOLhyphen"/>veth them <g ref="char:V">Ʋ</g>nderſtanding,</p>
+               <bibl>
+                  <hi>Job 32.8.</hi>
+               </bibl>
+            </q>
+            <p>Printed in the Year, 1674.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:102904:2"/>
+            <pb n="3" facs="tcp:102904:2"/>
+            <head>A Looking-Glaſs FOR THE Epiſcopal People, &amp;c.</head>
+            <p>SInce the <hi>Lord God</hi> of <hi>Everlaſting Love</hi> hath cauſed his <hi>E<g ref="char:EOLhyphen"/>verlaſting Truth</hi> to be Revealed in and amongſt a <hi>Poor De<g ref="char:EOLhyphen"/>ſpiſed People;</hi> who by the Seed of <hi>Iſhmael</hi> and Stock of <hi>Eſau</hi> are Reproachfully called <hi>Quakers,</hi> many have been the <hi>Re<g ref="char:EOLhyphen"/>proaches, Mockings, Scourgings, Whippings, Stockings, Stonings, Impriſonments unto Death,</hi> and <hi>Cruel Perſecutions,</hi> which many of the aforeſaid People call'd <hi>Quakers</hi> have <hi>ſuffered</hi> and <hi>patiently born,</hi> both from <hi>Profeſſors</hi> and <hi>Prophane,</hi> who like <hi>Pilate</hi> and <hi>Herod</hi> have often <hi>combined together,</hi> to <hi>oppoſe the holy Truth of God,</hi> and <hi>de<g ref="char:EOLhyphen"/>spightfully uſe the Followers thereof by all Wayes and Means ima<g ref="char:EOLhyphen"/>ginable:</hi> But <hi>He</hi> that <hi>ſits in the Heavens</hi> ſhall <hi>Laugh;</hi> the <hi>Lord</hi> ſhall <hi>have them</hi> in <hi>Deriſion;</hi> and then ſhall <hi>He ſpeak</hi> unto <hi>them</hi> in his <hi>Wrath</hi> (which is coming more and more upon the Ungodly) and <hi>vex them</hi> in his <hi>ſore Diſpleaſure.</hi> For the <hi>Mountain</hi> of his <hi>Holineſs</hi> will he Exalt upon the <hi>Top of all Mountains;</hi> And hi<g ref="char:EOLhyphen"/>ther muſt <hi>all</hi> the <hi>Nations come</hi> that will be Saved, to <hi>walk</hi> in the LIGHT of the Lord; which is become as a <hi>Stumbling-Stone</hi> and a <hi>Rock of Offence</hi> to the <hi>Carnal Profeſſors</hi> of this <hi>Generation;</hi> and as <hi>Fooliſhneſs</hi> to the <hi>Learned Rabbies</hi> and <hi>Doctors</hi> of the <hi>Times:</hi> But to <hi>
+                  <g ref="char:V">Ʋ</g>s</hi> that have <hi>Believed</hi> and <hi>walk in</hi> this <hi>Holy</hi> LIGHT of the Lord, it is become the <hi>Chief Corner-Stone, Elect and Precious,</hi> which in the Lord's due time will <hi>Daſh to pieces all Images,</hi> though never ſo <hi>ſeemingly Glorious,</hi> and <hi>all Image-Makers,</hi> and <hi>all</hi> that do or ſhall <hi>oppoſe</hi> the ſame. And though many have called it <hi>Natural</hi>
+               <pb n="4" facs="tcp:102904:3"/>and <hi>Inſufficient,</hi> &amp;c. Yet We that have believed in it, and have known the <hi>Efficacy</hi> of it, muſt Teſtifie unto all, that it is the LIGHT of <hi>Chriſt,</hi> the <hi>Word</hi> by whom <hi>all things were made;</hi> and <hi>therefore</hi> not <hi>Natural,</hi> but <hi>Divine</hi> and <hi>Spiritual;</hi> Nor <hi>Inſufficent,</hi> becauſe the LIGHT of <hi>Chriſt, who is able to ſave unto the utter<g ref="char:EOLhyphen"/>moſt all</hi> that <hi>come</hi> unto <hi>God by him; in whom was Life, and the Life was the Light of Men,</hi> John 1.4. Which LIGHT the <hi>Book</hi> of <hi>Common-Prayer</hi> doth <hi>amply</hi> and <hi>largely confeſs</hi> and <hi>teſtifie</hi> unto, as follows.</p>
+            <div type="part">
+               <epigraph>
+                  <q>
+                     <bibl>
+                        <hi>Com. Pr, Collect the 3d Sunday after</hi> Eaſter.</bibl>
+                     <p>Almighty God, which ſheweſt to all Men that be in Error the <hi>LIGHT</hi> of thy Truth, to the Intent that they may Return into the Way of Righteouſneſs, &amp;c.</p>
+                  </q>
+               </epigraph>
+               <p>HEre is a very Ample Confeſſion and Teſtimony to the true LIGHT, and the <hi>
+                     <g ref="char:V">Ʋ</g>niverſallity</hi> of It. <hi>Firſt,</hi> Becauſe that God doth ſhew it to All Men that be in Error (to wit) the LIGHT of Truth, which is the LIGHT of Chriſt, who ſaid, <hi>I am the Way, the Truth and the Life,</hi> John 14.6. whoſe <hi>Life was the Light of Men,</hi> John 1.4. and who ſaid, <hi>I am the</hi> LIGHT <hi>of the World; he that followeth me ſhall not walk in Darkneſs, but ſhall have the</hi> Light <hi>of</hi> Life, <hi>John</hi> 8.12. who alſo ſaid, <hi>I am come a</hi> Light <hi>into the World, that whoſoever believeth on me ſhould not A<g ref="char:EOLhyphen"/>bide in Darkneſs,</hi> John 12.46. <hi>Secondly,</hi> The <hi>Sufficiency</hi> of this <hi>Light</hi> is hereby vindicated from all the Calumnies and Reproach<g ref="char:EOLhyphen"/>es of thoſe that do or ſhall <hi>oppoſe</hi> the ſame: Becauſe the <hi>Intent of God's ſhewing it to all Men that be in Error,</hi> is, that they may <hi>Return</hi> into the <hi>Way of Righteouſneſs;</hi> which they cannot do if the <hi>Light</hi> which God ſhews them be not <hi>ſufficient</hi> to <hi>lead out of all Error;</hi> For how can a Man be ſaid to Return into the Way of Righteouſneſs, unleſs he firſt know a Leading out of, and a turn<g ref="char:EOLhyphen"/>ing from the Way of Error and Unrighteouſneſs. But <hi>God ſhews</hi>
+                  <pb n="5" facs="tcp:102904:3"/>to all men that be in Error the <hi>Light</hi> of his Truth, to the Intent that they may return into the <hi>Way of Righteouſneſs.</hi> Therefore let none <hi>ſlight</hi> the <hi>Lord's Love,</hi> who ſhews his <hi>Light</hi> unto them, but <hi>joyn to</hi> and <hi>obey</hi> the ſame, that they may know a <hi>Returning</hi> into the <hi>Way of Righteouſneſs,</hi> which is the <hi>Way of the Lord,</hi> whoſe Ways are Wayes of Pleaſantneſs and Righteouſneſs, and all whoſe <hi>Paths</hi> are <hi>Peace</hi> and <hi>Holineſs.</hi> And bleſſed be the Name of the Lord many are come to be lead by this <hi>Light</hi> (out of all the Wayes of Error, Darkneſs and Unrighteouſneſs) into the ſame; and becauſe they are Witneſſes of and to this <hi>Light,</hi> and do in tender Love ex<g ref="char:EOLhyphen"/>hort People to be Followers of the ſame, have they been both by <hi>Profeſſors</hi> and <hi>Prophane perſecuted,</hi> and <hi>evilly entreated,</hi> as afore<g ref="char:EOLhyphen"/>ſaid.</p>
+            </div>
+            <div type="part">
+               <epigraph>
+                  <q>
+                     <bibl>
+                        <hi>Com. Pr. Collect the 5th Suday after</hi> Eaſter.</bibl>
+                     <p>Lord, from whom all good things do come, grant us thy Hum<g ref="char:EOLhyphen"/>ble Servants, that by thy Holy <hi>INSPIRATION</hi> we may think thoſe things that be good, &amp;c.</p>
+                  </q>
+               </epigraph>
+               <p>THE Cry hath been and is by the <hi>blind Leaders</hi> of this Gene<g ref="char:EOLhyphen"/>ration, that <hi>Inſpiration ceaſeth now, and is not to be witneſſed;</hi> and becauſe a Remnant which God hath gathered by his Powerful Arm do teſtifie unto all, that <hi>Inſpiration doth not Ceaſe,</hi> but <hi>abides with</hi> and <hi>continues among God's People,</hi> are they accounted <hi>Deluders,</hi> a <hi>Dangerous People, Peſtilent Fellows, Movers of Sedition, &amp;c.</hi> by thoſe who know not the Truth, as it is in Jeſus; but hereby is it plainly manifeſt, that <hi>Inſpiration doth not ceaſe,</hi> becauſe by <hi>it</hi> people may come to <hi>think thoſe things</hi> that be <hi>good,</hi> as by the Pray<g ref="char:EOLhyphen"/>er above mentioned is deſired and prayed for; which doth imply, that without the <hi>Inſpiration of the Almighty</hi> people cannot come to <hi>think thoſe things that be good;</hi> for if they could, why ſhould the people pray unto God to grant them by his <hi>holy Inſpiration</hi> that they may, if they can <hi>think good Things</hi> without it? VVherefore thoſe that deny <hi>Inſpiration,</hi> and <hi>account</hi> thoſe <hi>Deluders</hi> that preach up and exhort People to preſs after the ſame, do plainly manifeſt,
+<pb n="6" facs="tcp:102904:4"/>that <hi>they do not think thoſe things that be good;</hi> and if <hi>People</hi> do not <hi>come to think good things</hi> (as by the <hi>Inſpiration</hi> of the <hi>Almighty</hi> they may be enabled to do) they will <hi>never come to do them:</hi> But thoſe that are Witneſſes of God's <hi>Holy Inſpiration,</hi> as the <hi>People</hi> called <hi>Quakers</hi> are, are thereby enabled not only to <hi>think,</hi> but to <hi>do good things</hi> alſo; for it is the Inſpiration of the Almighty that giveth Underſtanding, which made good <hi>Elibu</hi> to ſay, (<hi>Job</hi> 32.8. who well knew from whence a good Underſtanding came) <hi>There is a Spirit in Man, and the Inſpiration of the Almighty geveth them <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>derſtanding:</hi> Which All ought to ſeek after, that thereby they may come to have a <hi>good <g ref="char:V">Ʋ</g>nderſtanding</hi> (which thoſe that deny <hi>Inſpi<g ref="char:EOLhyphen"/>ration</hi> want) and then they will come not only to <hi>think,</hi> but alſo to <hi>do thoſe things that be good,</hi> as they <hi>come</hi> to <hi>witneſs</hi> the <hi>Holy In<g ref="char:EOLhyphen"/>ſpiration of the Almighty.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <epigraph>
+                  <q>
+                     <bibl>
+                        <hi>Com. Pr. at the Communion.</hi>
+                     </bibl>
+                     <p>Almighty God, unto whom all Hearts be open, all Deſires known, and from whom no Secrets are hid, cleanſe the Thoughts of our Hearts by the Inſpiration of thy Holy Spirit, &amp;c.</p>
+                  </q>
+               </epigraph>
+               <p>COme all you that ſay, <hi>Inſpiration is Ceaſed;</hi> here is another <hi>Confeſſion</hi> and <hi>Teſtimony</hi> to the <hi>Inſpiration of God's Holy Spi<g ref="char:EOLhyphen"/>rit,</hi> which will <hi>stand</hi> over the <hi>Heads</hi> of you <hi>all;</hi> for, by <hi>it</hi> comes the <hi>Thoughts</hi> of the <hi>Heart</hi> to be <hi>cleanſed,</hi> as many pray for, as aforeſaid, <hi>Cleanſe the Thoughts of our Hearts by the Inſpiration of thy Holy Spirit, &amp;c.</hi> then not to Ceaſe; if the <hi>Thoughts of the Heart</hi> are to be <hi>cleanſed by it;</hi> for if it ſhould, then how would the <hi>Thoughts</hi> of <hi>Peoples Hearts</hi> come to be <hi>cleanſed,</hi> if the <hi>Inſpira<g ref="char:EOLhyphen"/>tion of God's Holy Spirit,</hi> which people pray for as a Means to <hi>cleanſe the ſame</hi> ſhould Ceaſe? And if the <hi>Thoughts of the Heart</hi> are to be <hi>cleanſed</hi> by the <hi>Inſpiration of God's Holy Spirit,</hi> then thoſe that preach up &amp; exhort people to preſs after the ſame, as the peo<g ref="char:EOLhyphen"/>ple called <hi>Quakers</hi> have <hi>done</hi> and <hi>do</hi> unto this Day, are not <hi>Deluder's</hi> nor <hi>Hereticks, &amp;c.</hi> but truly <hi>Orthodox.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="7" facs="tcp:102904:4"/>
+               <epigraph>
+                  <q>
+                     <bibl>
+                        <hi>Com. Pr. Letany.</hi>
+                     </bibl>
+                     <p>That it may pleaſe thee to Bleſs and Keep the Magiſtrates, giving them Grace to Execute Juſtice and to Maintain Truth.</p>
+                  </q>
+               </epigraph>
+               <p>THE <hi>Grace of God</hi> that bringeth <hi>Salvation</hi> hath appeared un<g ref="char:EOLhyphen"/>to all Men, &amp;c. <hi>Tit.</hi> 2.11, 12. and therefore as well unto the <hi>Magiſtrates</hi> as unto <hi>others:</hi> and if the <hi>Magiſtrates</hi> would be taught by that Grace, it would teach them to deny Ungodlineſs and World<g ref="char:EOLhyphen"/>ly Luſts in themſelves, and to live Soberly, Righteouſly and God<g ref="char:EOLhyphen"/>ly in this preſent World: and then the <hi>Lord</hi> would <hi>bleſs</hi> and <hi>keep</hi> them, if they would be taught by his <hi>Grace ſo to do;</hi> which would alſo enable them to <hi>execute Juſtice</hi> and <hi>maintain Truth:</hi> For Magi<g ref="char:EOLhyphen"/>ſtrates can't <hi>truly rule</hi> for <hi>God,</hi> &amp; <hi>execute Juſtice</hi> &amp; <hi>maintain Truth,</hi> until they come to be <hi>taught</hi> by his <hi>Grace,</hi> and <hi>witneſs</hi> the <hi>Lord</hi> to <hi>Rule</hi> in <hi>them.</hi> Wherefore if the <hi>Magiſtrates</hi> would <hi>maintain Truth</hi> they ſhould firſt ſeek to be <hi>Witneſſes of it in themſelves,</hi> and then they will ſeek after the <hi>Preſervation,</hi> not the <hi>Deſtruction</hi> of <hi>thoſe</hi> that <hi>live, walk in</hi> and <hi>preach up the Truth,</hi> as the <hi>People</hi> call'd <hi>Qua<g ref="char:EOLhyphen"/>kers</hi> have <hi>done</hi> and <hi>do</hi> to this day, who Seek and Labour in true and tender <hi>Love</hi> to turn <hi>all people</hi> to the <hi>Light</hi> which <hi>God ſhews</hi> unto <hi>all men</hi> that be in Error, and to the <hi>Inſpiration of God's holy Spirit,</hi> and to his <hi>Grace</hi> that <hi>brings Salvation,</hi> which hath <hi>appeared unto all men, &amp;c.</hi> and yet they have <hi>ſuffered</hi> for <hi>teſtfying unto the ſame</hi> to this day. Now if the <hi>Magiſtrates</hi> would <hi>execute Juſtice,</hi> they ſhould <hi>puniſh</hi> the <hi>Evil-Doers, who hate the Light, neither come to it, leſt their Deeds ſhould be Reproved,</hi> John 3.20. for if they do not, but <hi>puniſh</hi> thoſe that <hi>do Truth, and come to the Light, &amp; bring their deeds to it, that they may be made manifeſt that they are wrought in God,</hi> Joh. 3.21. (as the <hi>people</hi> call'd <hi>Quakers</hi> do) then they bear the <hi>Sword</hi> in <hi>vain,</hi> which the <hi>Magiſtrates ought not to do;</hi> for they ſhould be a <hi>Terror</hi> to thoſe that do <hi>evil,</hi> and a <hi>Praiſe</hi> and <hi>Encouragement</hi> to thoſe that do <hi>well:</hi> And thoſe <hi>Magiſtrates</hi> who do not <hi>execute Ju<g ref="char:EOLhyphen"/>ſtice</hi> and <hi>maintain Truth after this manner,</hi> will inſtead of pretend<g ref="char:EOLhyphen"/>ing to <hi>do it</hi> be found <hi>Fighters againſt God,</hi> his <hi>Truth</hi> and <hi>People.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="8" facs="tcp:102904:5"/>
+               <epigraph>
+                  <q>
+                     <bibl>
+                        <hi>Com. Pr. Letany.</hi>
+                     </bibl>
+                     <p>That it may pleaſe thee to Give to all thy People Increaſe of Grace, to hear Meekly thy Word, and to receive it with pure Affecti<g ref="char:EOLhyphen"/>on, and to bring forth the Fruits of the Spirit.</p>
+                  </q>
+               </epigraph>
+               <p>IT would greatly Rejoyce us to have <hi>all people</hi> come to hear the <hi>Word of God meekly,</hi> and to Receive it with <hi>Pure Affection,</hi> and to bring forth the Fruits of the Spirit: for bleſſed be the Name of the Lord, he hath given and doth give to his People Increaſe of Grace, who have been and are faithful unto its Appearance, and they are come meekly to hear his Word, and have received it with pure <hi>Affection,</hi> and daily bring forth the Fruits of the Spirit, which are <hi>Love, Joy, Peace, Long-Suffering, Gentleneſs, Goodneſs. Faith, Meekneſs; againſt ſuch there is no Law,</hi> Gal. 5.22, 23. Where<g ref="char:EOLhyphen"/>fore the <hi>Magiſtrates</hi> ſhould not make Laws againſt nor perſecute thoſe that bring forth the Fruits of the Spirit, and deny all the Un<g ref="char:EOLhyphen"/>fruitful Works and Luſts of the Fleſh; and are come by the Inſpi<g ref="char:EOLhyphen"/>ration of Gods holy Spirit to <hi>think</hi> and <hi>do</hi> thoſe things that are <hi>good,</hi> and to have the Thoughts of their Hearts cleanſed thereby; but to Favour, Cheriſh and Protect them, becauſe againſt ſuch there ſhould be no Law: But if they ſhould not, but ſtill go on to perſecute the Innocent, then will they plainly manifeſt unto all, that they <hi>do not hear meekly the Word of God,</hi> nor have <hi>received it with pure Affecti<g ref="char:EOLhyphen"/>on,</hi> nor <hi>bring forth the Fruits of the Spirit;</hi> for <hi>Perſecution, Cruelty</hi> and <hi>Oppreſſion</hi> are not the <hi>Fruits</hi> of the <hi>ſame.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <epigraph>
+                  <q>
+                     <bibl>
+                        <hi>Com. Pr. Letany.</hi>
+                     </bibl>
+                     <p>That is may pleaſe thee to bring into the Way of Truth all ſuch as have erred and are deceived.</p>
+                  </q>
+               </epigraph>
+               <p>THis is that which the <hi>People</hi> called <hi>Quakers</hi> have long deſired and prayed for, and earneſtly ſeek after, That all thoſe who
+<pb n="9" facs="tcp:102904:5"/>have Erred and ſtrayed from the Wayes of <hi>God</hi> like Loſt Sheep, and have followed too much the <hi>Devices</hi> and <hi>Deſires</hi> of their <hi>own hearts,</hi> and have <hi>left undone</hi> thoſe <hi>things</hi> which they <hi>ought</hi> to have <hi>done,</hi> and have <hi>done</hi> thoſe things which they <hi>ought</hi> not to have <hi>done,</hi> and are crying, that there is <hi>no Health</hi> in them, being <hi>miſerable Offenders,</hi> that they might beturned to the <hi>Light,</hi> which <hi>God ſhews to all men</hi> that be in <hi>Error,</hi> to the Intent that they may Return into the <hi>Way of Righteouſneſs,</hi> and truly witneſs a being lead into the ſame thereby: And for bearing our Teſtimony to this Bleſſed <hi>Light,</hi> and ſeeking in Love to turn all people unto the ſame (that they might not be any longer deceived with Error) have we ſuffered ſo much <hi>Perſecution</hi> unto this day: Yet it is our earneſt Deſire, that none may any longer kick againſt the Pricks of it in their Hearts and Conſciences, which teſtifies againſt all Iniquity there, leſt the Day of their Tender Viſi<g ref="char:EOLhyphen"/>tation paſs over their Heads, and the things which concern their Peace be hid from their Eyes.</p>
+            </div>
+            <div type="part">
+               <epigraph>
+                  <q>
+                     <bibl>
+                        <hi>Com. Pr. Letany.</hi>
+                     </bibl>
+                     <p>That it may pleaſe thee to Deſend and Provide for the Fatherleſs Children and Widdows, and all that be Deſolate and Oppreſſed.</p>
+                  </q>
+               </epigraph>
+               <p>IF ſome had well minded this <hi>Prayer</hi> there had not been ſo many Fatherleſs Children and Widdows as were made by the <hi>Act</hi> for <hi>Baniſhment, &amp;c.</hi> when Parents were baniſhed from Children, &amp; Chil<g ref="char:EOLhyphen"/>dren from Parents, and Husbands from Wives, only for <hi>meeting</hi> to<g ref="char:EOLhyphen"/>gether to worſhip God in Spirit and Truth, and for bearing their Te<g ref="char:EOLhyphen"/>ſtimony to the Light and Inſpiration of God's Holy Spirit, and for bringing forth the Fruits of the ſame, againſt whom there ſhould have been no Law. Neither would there have been ſo many made Deſolate and Oppreſſed, as were by the late <hi>Act,</hi> entituled, <hi>An Act againſt Conventicles, &amp;c.</hi> by means whereof many <hi>Innocent People</hi> were Robbed and Spoiled of their Goods by Unreaſonable and Un<g ref="char:EOLhyphen"/>godly Men: Wherefore it would do well for all that are in Autho<g ref="char:EOLhyphen"/>rity, ſeriouſly to lay theſe things to Heart, and for the time to come
+<pb n="10" facs="tcp:102904:6"/>to provide for the Fatherleſs and Widdows, and all thoſe that have been made Deſolate &amp; Oppreſſed by the hands of <hi>Robbers</hi> and <hi>Spoi<g ref="char:EOLhyphen"/>lers:</hi> For the <hi>Cry of theſe things are entered into the Ears of the Lord of Hoſts, who will certainly plead the Cauſe of the Fatherleſs &amp; Widdow, and Relieve the Deſolate and Oppreſſed;</hi> that ſo thoſe who have eſta<g ref="char:EOLhyphen"/>bliſhed any <hi>Laws</hi> againſt the <hi>Righteous</hi> and <hi>Innocent,</hi> may for the time to come Diſannul and Repeal the ſame, and break off their In<g ref="char:EOLhyphen"/>iquities by Shewing Mercy, Doing Juſtly and Relieving the Oppreſ<g ref="char:EOLhyphen"/>ſed; and then peradventure the Lord may lengthen out the Tran<g ref="char:EOLhyphen"/>quility of their Dayes.</p>
+            </div>
+            <div type="part">
+               <epigraph>
+                  <q>
+                     <bibl>
+                        <hi>Com. Pr. Letany.</hi>
+                     </bibl>
+                     <p>That it may pleaſe thee to forgive our Enemies, Perſecutors and Slanderers, and to turn their Hearts.</p>
+                  </q>
+               </epigraph>
+               <p>THis hath been and is our hearty deſire, that God would Forgive our Enemies, Perſecutors and Slanderers, and turn their hearts: Yet how have we been Perſecuted and Slandered unto this day? But we have ſo Learned Chriſt, as to Love Enemies, and to do Good to them that Hate us and Deſpightfully Uſe us: But many, who often repeat the afore-ſaid Prayer, ſaying, <hi>We beſeech thee to hear us good Lord,</hi> are yet ſo far from Forgiving their Enemies, that they Perſecute their Friends, Neighbours and Country-men, and Slander them, in calling them, <hi>Hereticks,</hi> and <hi>Seditious Perſons, &amp;c.</hi> and make <hi>Laws</hi> againſt them who preach up the <hi>Light</hi> and <hi>inſpiration of God's Holy Spirit,</hi> as the People called <hi>Quakers</hi> have done and do at this day: Is not this a Mocking of God, for people to pray him to Forgive their Enemies, Perſecutors and Slanderers, &amp;c. and yet they to perſecute God's People, and ſlander them, as many have done: But God will not thus be mocked; for ſuch as Men <hi>Sow,</hi> ſuch ſhall they <hi>Reap;</hi> if they <hi>Sow Violence, Cruelty</hi> and <hi>Oppreſſion,</hi> they will certainly <hi>Reap Tribulation</hi> and <hi>Anguiſh, Indignation</hi> and <hi>Wrath</hi> forever.</p>
+            </div>
+            <div type="part">
+               <pb n="11" facs="tcp:102904:6"/>
+               <epigraph>
+                  <q>
+                     <bibl>
+                        <hi>Com. Pr. Collect on St.</hi> Stephen<hi>'s Day.</hi>
+                     </bibl>
+                     <p>Grant us, O Lord, to learn to Love our Enemies by the Example of thy <hi>Martyr</hi> St. <hi>Stephen,</hi> who prayed for his Perſecutors, &amp;c.</p>
+                  </q>
+               </epigraph>
+               <p>THis is a <hi>good Prayer;</hi> and would it were practiced by all, as much as it hath been often prayed by many, that the called <hi>Chriſtians</hi> of this and other Nations might come to learn and practiſe the ſame: But the Profeſſors in <hi>New-England</hi> were far from either Learning or Practiſing this Prayer; for inſtead of following the holy Example of the Martyr <hi>Stephen,</hi> they fled the ſame, and Ran into the Steps of thoſe who <hi>ſhed his Blood;</hi> and inſtead of Learning to <hi>Love</hi> their <hi>Enemies,</hi> and <hi>Praying</hi> for their <hi>Perſecutors,</hi> as all true <hi>Chriſti<g ref="char:EOLhyphen"/>ans</hi> ought to do, they <hi>Martyred their own Country-men</hi> for telling them the Truth, and ſeeking in True and Tender Love to turn them to the <hi>Light,</hi> which God ſhews unto all Men that be in Error, to the Intent that they may Return into the <hi>Way of Righteouſneſs.</hi> Where<g ref="char:EOLhyphen"/>fore come all you <hi>Papiſts</hi> and <hi>Proteſtants,</hi> and truly learn and practiſe this <hi>Prayer,</hi> that ſo <hi>Violence, Perſecution, Cruelty</hi> and <hi>Oppreſſion</hi> may have an End, <hi>Quod faxit Deus.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <epigraph>
+                  <q>
+                     <bibl>
+                        <hi>Com. Pr. Collect on</hi> St. John Baptiſt<hi>'s Day.</hi>
+                     </bibl>
+                     <p>Almighty God, by whoſe Providence thy Servant <hi>John Baptiſt</hi> was wonderfully born, and ſent to prepare the Way of thy Son our Saviour, by preaching of Repentance; make us ſo to follow his Doctrine and holy Life, that we may truly Repent, according to his Preaching, and after his Example conſtantly ſpeak the Truth, boldly rebuke Vice, and patiently ſuffer for the Truth's ſake, &amp;c.</p>
+                  </q>
+               </epigraph>
+               <p>IF this <hi>Prayer</hi> was better minded and practiſed by thoſe who often repeat the ſame, then the Truth would be better maintained, Vice
+<pb n="12" facs="tcp:102904:7"/>more boldly rebuked, and true Virtue cheriſhed, and thoſe that have patiently Suffered for teſtifying to the Truth (as aforeſaid) would be more encouraged then they have been or are: But inſtead thereof the Truth and the Followers of it have been and are <hi>Diſcountenanced,</hi> Vice <hi>Cheriſh'd,</hi> and tho<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e that have reprov'd Iniquity in the Gate have been made a <hi>Prey;</hi> Yet according to the holy <hi>Example</hi> of <hi>John</hi> the <hi>Baptiſt</hi> ſhall we conſtantly continue to <hi>Speak</hi> the <hi>Truth, Boldly</hi> to <hi>Re<g ref="char:EOLhyphen"/>buke Vice,</hi> and <hi>Patiently to ſuffer for the Truth's ſak<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>;</hi> And alſo ac<g ref="char:EOLhyphen"/>cording to the holy Example of the Martyr <hi>Stephen,</hi> who <hi>prayed for his Perſecutors,</hi> ſhall we heartily Deſire and Pray the Lord, <hi>That he would be pleaſed to Forgive all our</hi> Enemies, Perſecutors <hi>and</hi> Slander<g ref="char:EOLhyphen"/>ers, <hi>and Turn their Hearts.</hi>
+               </p>
+               <p>Wherefore let all People truly Mind, Love and Obey the Light, which God ſhews to all men that be in Error, that ſo they might come to witneſs thereby a Returning into the Way of Truth and Righte<g ref="char:EOLhyphen"/>ouſneſs, and then they will come to be true <hi>Chriſtians</hi> indeed, and to anſwer the End of God's Love, and the Intent of his ſhewing his Light unto them; which that all people may do, is the hearty De<g ref="char:EOLhyphen"/>ſire of him</p>
+               <closer>
+                  <dateline>
+                     <hi>Southwark,</hi> the lat<g ref="char:EOLhyphen"/>ter-end of <date>the 8th Moneth, 1673.</date>
+                  </dateline>
+                  <signed>
+                     <hi>Who Wiſheth and Seeketh the Good and Welfare of all,</hi> F. L.</signed>
+               </closer>
+               <trailer>THE END.</trailer>
+               <pb facs="tcp:102904:7"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
